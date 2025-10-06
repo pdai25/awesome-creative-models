@@ -7,7 +7,7 @@
 
 
 ### Qwen Image
-- Qwen Image Eligen 
+- Qwen Image Eligen [[HF](https://huggingface.co/DiffSynth-Studio/Qwen-Image-EliGen-V2) | [ComfyUI](https://github.com/AIFSH/QwenImage-Diffsynth/tree/main?tab=readme-ov-file)]
 
 ![eligen_example_1_0](./assets/qwen_eligen.png)
 
