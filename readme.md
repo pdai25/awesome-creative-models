@@ -3,16 +3,18 @@
 
 # Layouts
 ## 2025
+### Agent
 - PosterCopilot: Toward Layout Reasoning and Controllable Editing for Professional Graphic Design. 2025. [Code](https://postercopilot.github.io)
 - PosterGen: Aesthetic-Aware Paper-to-Poster Generation via Multi-Agent LLMs, 2025. [Code](https://github.com/Y-Research-SBU/PosterGen)
-- CreatiPoster: Towards Editable and Controllable Multi-Layer Graphic Design Generation, 2025. [Code](https://github.com/graphic-design-ai/creatiposter#)
-- PosterLLaVa: Constructing a Unified Multi-modal Layout Generator with LLM. [Code](https://github.com/posterllava/PosterLLaVA)
-- PosterO: Structuring Layout Trees to Enable Language Models in Generalized Content-Aware Layout Generation, CVPR2025. [Code](https://thekinsley.github.io/PosterO/)
+- BannerAgency: Advertising Banner Design with Multimodal LLM Agents, EMNLP 2025. [Code](https://github.com/sony/BannerAgency)
 
-### Preprints
+### General (Single Pass VLM)
+- **PosterLLaVa**: Constructing a Unified Multi-modal Layout Generator with LLM [[Paper]](https://arxiv.org/abs/2406.02884v1) [[Code]](https://github.com/posterllava/PosterLLaVA)
+- **PosterO**: Structuring Layout Trees to Enable Language Models in Generalized Content-Aware Layout Generation, CVPR2025. [Code](https://thekinsley.github.io/PosterO/)
+- Smaller But Better: Unifying Layout Generation with Smaller Large Language Models, IJCV 2025. [Code](https://github.com/NiceRingNode/LGGPT)
+- CreatiPoster: Towards Editable and Controllable Multi-Layer Graphic Design Generation, 2025. [Code](https://github.com/graphic-design-ai/creatiposter#)
 - LTSim: Layout Transportation-based Similarity Measure for Evaluating Layout Generation [[Paper]](https://arxiv.org/abs/2407.12356) [[Code]](https://github.com/mayu-ot/ltsim)
 - CGB-DM: Content and Graphic Balance Layout Generation with Transformer-based Diffusion Model [[Paper]](https://arxiv.org/abs/2407.15233)
-- PosterLLaVa: Constructing a Unified Multi-modal Layout Generator with LLM [[Paper]](https://arxiv.org/abs/2406.02884v1) [[Code]](https://github.com/posterllava/PosterLLaVA)
 - Automatic Layout Planning for Visually-Rich Documents with Instruction-Following Models [[Paper]](https://arxiv.org/abs/2404.15271)
 - Graphic Design with Large Multimodal Model [[Paper]](https://arxiv.org/abs/2404.14368)
 - Reason out Your Layout: Evoking the Layout Master from Large Language Models for Text-to-Image Synthesis [[Paper]](https://arxiv.org/abs/2311.17126)
@@ -36,3 +38,5 @@
 - Towards Aligned Layout Generation via Diffusion Model with Aesthetic Constraints (**ICLR** 2024) [[Paper]](https://openreview.net/forum?id=kJ0qp9Xdsh)
 - Spot the Error: Non-autoregressive Graphic Layout Generation with Wireframe Locator (**AAAI** 2024) [[Paper]](https://arxiv.org/abs/2401.16375) [[Code]](https://github.com/ffffatgoose/SpotError)
 
+# References
+- https://github.com/wd1511/Awesome-Layout-Generation
